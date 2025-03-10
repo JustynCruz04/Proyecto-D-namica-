@@ -1,0 +1,42 @@
+name: CI/CD - TecniCelular
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest
+
+    steps:
+      - name: 📥 Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: 🛠 Configurar .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x' # Ajusta según la versión de tu proyecto
+
+      - name: 🔨 Restaurar dependencias
+        run: dotnet restore
+
+      - name: 🚀 Compilar el proyecto
+        run: dotnet build --configuration Release --no-restore
+
+      - name: ✅ Ejecutar pruebas unitarias
+        run: dotnet test --configuration Release --logger trx --results-directory TestResults
+
+      - name: 📊 Subir reportes de pruebas
+        uses: actions/upload-artifact@v3
+        with:
+          name: Reportes-de-Pruebas
+          path: TestResults/*.trx
+
+      - name: 📢 Notificar errores en pruebas (si fallan)
+        if: failure()
+        run: echo "⚠ Pruebas fallidas. Revisa los reportes en TestResults."
