@@ -1,0 +1,988 @@
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\eduin\source\repos\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CopyComplete
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+G:\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\estev\Downloads\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\estev\Pictures\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta500\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\aylin\OneDrive\Desktop\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\estev\Downloads\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\eduin\Music\1PuntoDeVenta5002.0\PuntoDeVenta5002.0\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\estev\Downloads\1PuntoDeVenta5002.0\1PuntoDeVenta5002.0\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\aylin\OneDrive\Desktop\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\eduin\Pictures\Proyecto\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\TICS\Desktop\Proyectito Final\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\Nueva carpeta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompra.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompraRealizadas.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\eduin\Pictures\Proyecto\AUNSINACABAREN LA CARA\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompra.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompraRealizadas.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\OCHY\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompra.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompraRealizadas.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CopyComplete
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\sumes\OneDrive\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompra.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompraRealizadas.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\justy\Desktop\Punto  Venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.exe
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.deps.json
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.runtimeconfig.json
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.barcodes.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.forms.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.io.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.kernel.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.layout.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfa.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.pdfua.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.sign.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.svg.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\itext.commons.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmApartar.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBodega.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmBuscarProducto.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmCaja.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmClientes.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmComprar.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPrincipal.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmInicio.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmListaClientes.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmLogin.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPagos.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompra.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmPreCompraRealizadas.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProductos.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmProveedor.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmReportes.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.frmVender.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.Properties.Resources.resources
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeV.97B5192D.Up2Date
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\refint\PuntoDeVenta.dll
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.pdb
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\justy\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\net6.0-windows\ref\PuntoDeVenta.dll

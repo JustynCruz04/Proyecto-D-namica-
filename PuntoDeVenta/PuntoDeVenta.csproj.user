@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ButtomDesing.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="frmApartar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmContenedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmComprar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPreCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPreCompraRealizadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmVender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
