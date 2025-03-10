@@ -1,10 +1,10 @@
-#Sistema de Ventas - TecniCelular
+# Sistema de Ventas - TecniCelular
 Descripción
 TecniCelular es un sistema de ventas diseñado para gestionar la comercialización de celulares y accesorios. Permite registrar clientes, administrar productos, gestionar compras y generar reportes de ventas.
 
 El sistema está desarrollado en C# (Windows Forms) con una base de datos en SQL Server para almacenar la información.
 
-##Características
+## Características
 1. Módulo de Autenticación
 Inicio de sesión seguro con validación de usuarios en la base de datos.
 Gestión de roles de usuario (Administrador y Vendedor).
@@ -25,7 +25,7 @@ Reportes de ventas con filtros por fecha y cliente.
 Exportación en PDF y Excel.
 Visualización de ingresos y tendencias de ventas.
 
-##Base de Datos (SQL Server)
+## Base de Datos (SQL Server)
 Tablas Principales
 Clientes: Almacena información de los clientes registrados.
 Productos: Contiene el inventario de celulares y accesorios.
